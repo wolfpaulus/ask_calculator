@@ -1,0 +1,11 @@
+Calculate {operatorA} {operation} {operatorB}
+Calculate What is {operatorA} {operation} {operatorB}
+Calculate Tell me what is {operatorA} {operation} {operatorB}
+Calculate Please tell me what is {operatorA} {operation} {operatorB}
+Calculate Calculate {operatorA} {operation} {operatorB}
+Calculate Please calculate {operatorA} {operation} {operatorB}
+Calculate Compute {operatorA} {operation} {operatorB}
+Calculate Please compute {operatorA} {operation} {operatorB}
+CheckPrime is {operator} a prime number
+CheckPrime is {operator} prime
+CheckPrime tell me is {operator} prime

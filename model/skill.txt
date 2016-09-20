@@ -1,0 +1,7 @@
+OPERATION
+
+plus
+minus
+times
+multiplied by
+divided by

@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "Calculate",
+      "slots": [
+        {
+          "name": "operatorA",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "operatorB",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "operation",
+          "type": "OPERATION"
+        }
+      ]
+    },
+    {
+      "intent": "CheckPrime",
+      "slots": [
+        {
+          "name": "operator",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
